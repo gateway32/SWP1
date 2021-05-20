@@ -1,2 +1,2 @@
-Leo Song
-20211234
+Leo Song 20211234
+Kookmin Univ. SW
